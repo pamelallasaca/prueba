@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjeta-407f3": {
+      "hosting": {
+        "prueba": [
+          "tarjeta-407f3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjeta-407f3"
+  }
+}

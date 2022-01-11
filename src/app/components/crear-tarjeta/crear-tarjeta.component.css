@@ -1,0 +1,53 @@
+body {
+	background: #870000; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to right,
+		#190a05,
+		#870000
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to right,
+		#190a05,
+		#870000
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.titulo {
+	width: 500px;
+	text-align: center;
+	font-family: "Baloo 2", cursive;
+	background: #fff;
+	padding: 20px;
+	margin-left: 500px;
+}
+.titulo1 {
+	width: 500px;
+	text-align: center;
+	font-family: "Baloo 2", cursive;
+	background: #fff;
+	padding: 20px;
+	margin-left: 100px;
+}
+
+.titulo2 {
+	width: 500px;
+	text-align: center;
+	font-family: "Baloo 2", cursive;
+	background: #fff;
+	padding: 20px;
+	margin-left: 900px;
+	margin-top: -80px;
+}
+
+.green-icon {
+	color: #198754;
+}
+
+.red-icon {
+	color: #dc3545;
+}
+
+.spinner-border {
+	height: 1.5rem;
+	width: 1.5rem;
+}
