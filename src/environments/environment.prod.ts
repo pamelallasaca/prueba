@@ -1,4 +1,14 @@
 export const environment = {
+  firebase: {
+    projectId: 'tarjeta-407f3',
+    appId: '1:255826468466:web:443b473959ab503880eceb',
+    storageBucket: 'tarjeta-407f3.appspot.com',
+    locationId: 'southamerica-east1',
+    apiKey: 'AIzaSyAxLhPc7Vih43Nq8nGoe6mADr60cDbRUBk',
+    authDomain: 'tarjeta-407f3.firebaseapp.com',
+    messagingSenderId: '255826468466',
+    measurementId: 'G-T4TJXL8765',
+  },
 	production: true,
 	apiKey: 'AIzaSyAxLhPc7Vih43Nq8nGoe6mADr60cDbRUBk',
 	authDomain: 'tarjeta-407f3.firebaseapp.com',

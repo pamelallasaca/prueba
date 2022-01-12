@@ -26,18 +26,11 @@ body {
 	font-family: "Baloo 2", cursive;
 	background: #fff;
 	padding: 20px;
-	margin-left: 100px;
+	margin-left: 50px;
+	font-size: 20px;
 }
 
-.titulo2 {
-	width: 500px;
-	text-align: center;
-	font-family: "Baloo 2", cursive;
-	background: #fff;
-	padding: 20px;
-	margin-left: 900px;
-	margin-top: -80px;
-}
+
 
 .green-icon {
 	color: #198754;
